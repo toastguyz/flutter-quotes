@@ -1,4 +1,4 @@
-# Flutter Samples
+# Flutter Quotes
 
 > A flutter application for creating, updating and deleting the quotes for your daily life inspiration.
 
